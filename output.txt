@@ -1,0 +1,53 @@
+1. POSSIBLE DUPLICATE
+400712	8/31/2024	2006	N659QX	Pax upset that they might not make connection and paid for bag.
+400716	8/31/2024	2006	N659QX	Flex cuffs not in plastic bag and cutter not present.
+
+2. POSSIBLE DUPLICATE
+400717	8/30/2024	2160	N646QX	Pax left food in gate area and station was not willing to retrieve for pax
+400392	8/30/2024	2160	N646QX	Safety cards in FC and row 6 were not all visible.
+
+3. POSSIBLE DUPLICATE
+399209	8/23/2024	2310	N633QX	Pax non-compliant with tray table and verbal to FA
+399211	8/23/2024	2310	N633QX	Pax unhappy with service options
+
+4. POSSIBLE DUPLICATE
+398949	8/23/2024	2212	N627QX	Canceled service due to turbulence
+398947	8/23/2024	2212	N627QX	Canceled service due to turbulence
+
+5. POSSIBLE DUPLICATE
+398440	8/22/2024	2416	N627QX	Cancelled service due to turbulence
+398439	8/22/2024	2416	N627QX	Boarding began before FAs answered questions
+
+6. POSSIBLE DUPLICATE
+398097	8/21/2024	2213	N635QX	Pax non-compliant with bags and cell phone
+398356	8/21/2024	2213	N635QX	Pax dissatisfied with the FA not giving additional wine
+
+7. POSSIBLE DUPLICATE
+397209	8/17/2024	2125	N631QX	FA Fatigue
+397431	8/17/2024	2125	N631QX	Cancelled service due to turbulence
+
+8. POSSIBLE DUPLICATE
+397223	8/17/2024	2092	N643QX	Pax complained of cabin temp
+397222	8/17/2024	2092	N643QX	Pax non-compliant with PED. gained compliance
+
+9. POSSIBLE DUPLICATE
+396870	8/15/2024	2195	N622QX	Bags out of the cabin and agent CRM issued in front of pax.
+396863	8/15/2024	2195	N622QX	R1 found armed during preflight
+
+10. POSSIBLE DUPLICATE
+396573	8/11/2024	2090	N662QX	Pax rang call button during taxi and did not shut it off when asked if an emergency. Was in re to connection
+396374	8/11/2024	2090	N662QX	Agent did not tag bags out of the cabin with pax info
+
+11. POSSIBLE DUPLICATE
+395942	8/10/2024	2062	N622QX	Service cancelled due to expected turbulence
+396325	8/10/2024	2062	N622QX	Cancelled service due to turbulence
+
+12. POSSIBLE DUPLICATE
+395730	8/7/2024	2049	N633QX	Sterile cockpit indicator light was not turned on during descent.
+395762	8/7/2024	2049	N633QX	FA disarmed L1
+
+13. POSSIBLE DUPLICATE
+394797	8/2/2024	2281	N630QX	FA Fatigue
+394735	8/2/2024	2281	N630QX	Pax unknowingly upgraded and moved during taxi
+394796	8/2/2024	2281	N630QX	FA Fatigue
+

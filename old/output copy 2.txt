@@ -1,0 +1,87 @@
+1. POSSIBLE DUPLICATE
+365102	2/29/2024	2312	N660QX	No service due to turbulence
+365091	2/29/2024	2312	N660QX	Modified service due to turbulence
+
+2. POSSIBLE DUPLICATE
+365114	2/28/2024	2267	N647QX	No service due to turbulence
+365089	2/28/2024	2267	N647QX	No service due to turbulence
+
+3. POSSIBLE DUPLICATE
+363457	2/28/2024	2065	N642QX	Pax used lav while taxiing into the gate.
+363448	2/28/2024	2065	N642QX	Pax vomited before push back.
+
+4. POSSIBLE DUPLICATE
+363492	2/27/2024	2015	N620QX	Soiled oven.
+363461	2/27/2024	2015	N620QX	Agent didn't ask door closing question, said "we don't do that here."
+
+5. POSSIBLE DUPLICATE
+363898	2/27/2024	2012	N647QX	Conflict with Fleet during deplaning.
+363905	2/27/2024	2012	N647QX	Conflict with guest leading to guest removal.
+
+6. POSSIBLE DUPLICATE
+363140	2/26/2024	2020	N651QX	No service due to turbulence
+363135	2/26/2024	2020	N651QX	FC not cleaned
+
+7. POSSIBLE DUPLICATE
+362917	2/20/2024	2078	N623QX	FA concerned about uniform delivery
+362906	2/20/2024	2078	N623QX	FA reported more service training needed for other FA
+
+8. POSSIBLE DUPLICATE
+362723	2/19/2024	2116	N623QX	FA Fatigue
+362273	2/19/2024	2116	N623QX	FA Fatigue
+
+9. POSSIBLE DUPLICATE
+362923	2/19/2024	2075	N633QX	Aisle chair rusted and handles inop. FA injured back
+362725	2/19/2024	2075	N633QX	FAs delayed boarding until after preflight
+
+10. POSSIBLE DUPLICATE
+361946	2/18/2024	2129	N656QX	O2 mask fell apart during safety demo
+362471	2/18/2024	2129	N656QX	Catering error
+
+11. POSSIBLE DUPLICATE
+361874	2/17/2024	2099	N656QX	FA Fatigue
+361875	2/17/2024	2099	N656QX	FA Fatigue
+
+12. POSSIBLE DUPLICATE
+362465	2/17/2024	2028	N650QX	Modified service due to turbulence
+362467	2/17/2024	2028	N650QX	Modified service due to turbulence
+
+13. POSSIBLE DUPLICATE
+361777	2/15/2024	2408	N654QX	FA forgot to lock liquor during RON
+361773	2/15/2024	2408	N654QX	FA concerns re other FA lack of assistance with cabin clean up and compliance
+
+14. POSSIBLE DUPLICATE
+361762	2/15/2024	2020	N649QX	FA Fatigue
+361811	2/15/2024	2020	N649QX	FA Fatigue
+361814	2/15/2024	2020	N649QX	Pax dispute due to overhead bin usage.
+
+15. POSSIBLE DUPLICATE
+361089	2/12/2024	2400	N662QX	Missed approach due to auto land failure
+361101	2/12/2024	2400	N662QX	MTX delay
+
+16. POSSIBLE DUPLICATE
+360978	2/11/2024	2016	N658QX	FA closed L1 prior to cabin being secured
+361093	2/11/2024	2016	N658QX	Station water frozen and unable to fill AC
+361095	2/11/2024	2016	N658QX	Overhead lighting issues
+
+17. POSSIBLE DUPLICATE
+360797	2/9/2024	2167	N628QX	Cart breaks inop
+361316	2/9/2024	2167	N628QX	Service canceled due to turbulence
+
+18. POSSIBLE DUPLICATE
+361321	2/9/2024	2002	N624QX	Modified service due to turbulence
+361318	2/9/2024	2002	N624QX	Suspended service due to turbulence
+
+19. POSSIBLE DUPLICATE
+361320	2/8/2024	2312	N622QX	discontinued service due to turbulence
+360965	2/8/2024	2312	N622QX	Pax wanted to take alcohol off ac and upset when FA when asked for compliance
+
+20. POSSIBLE DUPLICATE
+360754	2/5/2024	2239	N652MK	Pax compliance with infant and seatbelt
+360230	2/5/2024	2239	N652MK	Cancelled service due to turbulence
+
+21. POSSIBLE DUPLICATE
+360183	2/4/2024	2424	N652MK	FA Fatigue
+360294	2/4/2024	2424	N652MK	FA Fatigue
+361305	2/4/2024	2424	N652MK	Service cancelled due to turbulence
+

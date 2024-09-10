@@ -1,0 +1,550 @@
+Event Number,Event Summary,Event Type,Event Date,Flight,Tail,Fleet,Risk,Location,Airline,Current Phase,Created by,Fleet2,Analyst Notes,Analyst Notes3
+335116,Smoke alarm went off with Pax in lav. Pax denied smoking. FA did not see or smell anything,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/1/23,2010,N656QX,,NSI,SEA,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+335546,Service modified due to turb and catering errors,Inflight : Catering/Service Interruption,9/1/23,2017,N641QX,,NSI,SEA,QX,Completed,Elizabeth Ceja,,#turb,#turb
+335561,Inflight service discontinued due to turb,Inflight : Catering/Service Interruption,9/1/23,2081,N634QX,,NSI,PDX,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335548,Inflight service discontinued due to turb,Inflight : Catering/Service Interruption,9/1/23,2088,N623QX,,NSI,PDX,QX,Completed,Elizabeth Ceja,,#turb,#turb
+335553,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/1/23,2088,N623QX,,NSI,BZN,QX,Completed,Elizabeth Ceja,,#turb,#turb
+337181,Inflight service stopped due to turb,Inflight : Catering/Service Interruption,9/1/23,2088,N623QX,,NSI,BZN,QX,Completed,Elizabeth Ceja,,#turb,#turb
+335537,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/1/23,2104,N651QX,,NSI,Enroute,QX,Completed,Elizabeth Ceja,,#turb #notidiedfas,#turb #notidiedfas
+335539,Inflight service modified due to turb,Inflight : Catering/Service Interruption,9/1/23,2104,N651QX,,NSI,Enroute,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335115,Pax wanted to take alcohol off AC,Inflight : Other Event,9/1/23,2117,N622QX,,A,Enroute,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+335247,No service due to turbulence,Inflight : Other Event,9/1/23,2152,N639QX,,NSI,PUW,QX,Initiate Event,Amanda Bressel,,"#turb 
+Messaged FA","#turb 
+Messaged FA"
+335563,Inflight service discontinued due to turbulence,Inflight : Catering/Service Interruption,9/1/23,2190,N645QX,,NSI,GEG,QX,Completed,Elizabeth Ceja,,#turb,#turb
+335540,Inflight service modified due to turb,Inflight : Catering/Service Interruption,9/1/23,2219,N654QX,,NSI,GEG,QX,Completed,Elizabeth Ceja,,#turb,#turb
+335263,RTG for ill pax to be removed from flt. Medic met AC,Inflight : Passenger Illness/Injury,9/1/23,2231,N624QX,,NSI,PDX,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+335251,Canceled Service due to turbulence,Inflight : Other Event,9/1/23,2315,N648QX,,NSI,SEA,QX,Initiate Event,Amanda Bressel,,"#turb 
+Messaged FA","#turb 
+Messaged FA"
+335252,Cancelled Service due to turbulence,Inflight : Other Event,9/1/23,2342,N648QX,,NSI,RDM,QX,Initiate Event,Amanda Bressel,,"#turb 
+Messaged FA","#turb 
+Messaged FA"
+335114,Agent did not ask boarding questions or follow UM proceedures,Inflight : Station Operation,9/1/23,2347,N655QX,,A,GEG,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie 
+#Boarding","Messaged FA 
+Sent to Jackie 
+#Boarding"
+335555,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/1/23,2390,N639QX,,NSI,Enroute,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335257,AC smelled of fish that was left on board over night,Inflight : Equipment/System Odor,9/1/23,2555,N635QX,,A,SEA,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+335573,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/2/23,2017,N623QX,,NSI,SEA,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335273,L1 Door indicators incorrect. FA notified CA and stated it was good,Inflight : Equipment/System Odor,9/2/23,2021,N644QX,,A,PDX,QX,Initiate Event,Amanda Bressel,,"Called FA 
+Sent to MTX 
+Sent to Flt Ops","Called FA 
+Sent to MTX 
+Sent to Flt Ops"
+335138,No service due to turbulence.,Inflight : Other Event,9/2/23,2067,N644QX,,NSI,PUW,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Dennis to change title to FA","Messaged FA 
+Sent to Dennis to change title to FA"
+335277,Agent did not retrieve UM after flt,Inflight : Other Event,9/2/23,2070,N646QX,,A,RDM,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+335265,Elderly pax fell while getting seated. Medics met AC and cleared to fly,Inflight : Passenger Illness/Injury,9/2/23,2096,N649QX,,NSI,YYC,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+335268,Hotel van delayed caused FA to not be ready to board,Inflight : Other Event,9/2/23,2104,N647QX,,NSI,SMF,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+CA requested van time 
+#Shuttle","Messaged FA 
+CA requested van time 
+#Shuttle"
+335568,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/2/23,2163,N655QX,,NSI,Enroute,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335569,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/2/23,2170,N660QX,,NSI,SEA,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335565,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/2/23,2179,N643QX,,NSI,PDX,QX,Completed,Elizabeth Ceja,,#turb,#turb
+335258,Agent did not ask boarding questions,Inflight : Station Operation,9/2/23,2185,N622QX,,A,SEA,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie 
+#boarding","Messaged FA 
+Sent to Jackie 
+#boarding"
+335282,Young ill pax throwing up prior to departure. Remained on flt,Inflight : Passenger Illness/Injury,9/2/23,2221,N646QX,,NSI,SFO,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+335574,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/3/23,2020,N644QX,,NSI,SEA,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335643,Pax removed from flight for possible medication impairment,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/3/23,2020,N644QX,,A,SEA,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+335587,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/3/23,2142,N656QX,,NSI,SEA,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335606,Boarding question confusion Ac clean,Inflight : Station Operation,9/3/23,2180,N624QX,,NSI,RDM,QX,Initiate Event,Amanda Bressel,,Messaged FA about current changes that are in the works.,Messaged FA about current changes that are in the works.
+335588,Inflight service modified due to turb,Inflight : Catering/Service Interruption,9/3/23,2187,N643QX,,NSI,BOI,QX,Completed,Elizabeth Ceja,,#turb,#turb
+335278,Red Arrow placard pealing off,Inflight : Equipment/System Odor,9/3/23,2220,N645QX,,A,PAE,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+sent to MTX","Messaged FA 
+sent to MTX"
+335279,FA found Ipad on board,Inflight : Station Operation,9/3/23,2220,N645QX,,NSI,PAE,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+335581,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/3/23,2238,N649QX,,NSI,SEA,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335582,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/3/23,2238,N649QX,,NSI,MSO,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335262,Pax showing signs of intox after service,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/3/23,2264,N655QX,,A,Enroute,QX,Initiate Event,Amanda Bressel,,"#PaxIntox 
+Messaged FA","#PaxIntox 
+Messaged FA"
+335585,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/3/23,2269,N644QX,,NSI,SEA,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335589,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/3/23,2284,N649QX,,NSI,FCA,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335586,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/3/23,2330,N656QX,,NSI,EUG,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335583,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/3/23,2331,N639QX,,NSI,Enroute,QX,Completed,Elizabeth Ceja,,#turb,#turb
+335284,Onboard entertainment inop,Inflight : Equipment/System Odor,9/3/23,2384,N655QX,,NSI,Enroute,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to MTX 
+#IT","Messaged FA 
+Sent to MTX 
+#IT"
+335283,"Pax fainted during taxi in, O2 used and medical assist on board, medics met ac",Inflight : Passenger Illness/Injury,9/3/23,2420,N657QX,,NSI,LAX,QX,Initiate Event,Amanda Bressel,,"Messaged FAs 
+Sent to MTX for O2","Messaged FAs 
+Sent to MTX for O2"
+335285,Pax did not want to comply with child in seatbelt,Inflight : Passenger Compliance/Exit Row,9/4/23,2110,N648QX,,A,PAE,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+335615,Galleys left a mess by the previous crew.,Inflight : Other Event,9/4/23,2180,N624QX,,A,RDM,QX,Initiate Event,Amanda Bressel,,Called FA to use narrative in inquirer.,Called FA to use narrative in inquirer.
+337182,FA misunderstanding,Inflight : Catering/Service Interruption,9/4/23,2180,N624QX,,NSI,RDM,QX,Completed,Elizabeth Ceja,,Following up with FA to inform of cross certification.,Following up with FA to inform of cross certification.
+335597,FA Fatigue,Inflight : Fatigue,9/4/23,2572,N646QX,,NSI,GEG,QX,Initiate Event,Amanda Bressel,,Sent to Inflight Supervisors for processing,Sent to Inflight Supervisors for processing
+335261,Pax suspected of vaping in the lav- pax denied,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/4/23,2584,N656QX,,NSI,ORD,QX,Initiate Event,Amanda Bressel,,Messaged FAs,Messaged FAs
+335287,Agent did not close door properly and needed to reopen,Inflight : Station Operation,9/4/23,2584,N656QX,,A,ORD,QX,Initiate Event,Amanda Bressel,,"Messaged FAs 
+Sent to Jackie 
+#GroundCabinDoor","Messaged FAs 
+Sent to Jackie 
+#GroundCabinDoor"
+335288,Delay due to potable water fill,Inflight : Station Operation,9/4/23,2584,N656QX,,NSI,ORD,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+335289,Cleaning supplies put with emergency equipment,Inflight : Other Event,9/5/23,2038,N656QX,,A,SEA,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+#Fleet 
+Messaged FA","Messaged FA 
+#Fleet 
+Messaged FA"
+335591,Catering error,Inflight : Catering/Service Interruption,9/5/23,2064,N637QX,,NSI,SNA,QX,Completed,Elizabeth Ceja,,Following up with FA and catering ops,Following up with FA and catering ops
+335291,Tarmac Delay snacks expired,Inflight : Other Event,9/5/23,2120,N635QX,,A,SJC,QX,Initiate Event,Amanda Bressel,,"#snacks 
+Messaged FA","#snacks 
+Messaged FA"
+335601,Fish odor in cabin oven,Inflight : Equipment/System Odor,9/5/23,2120,N635QX,,A,SJC,QX,Initiate Event,Amanda Bressel,,Messaged FA to not place anything flammable in oven,Messaged FA to not place anything flammable in oven
+335603,"Pax anxiety flying, soothed by FA",Inflight : Passenger Illness/Injury,9/5/23,2171,N637QX,,NSI,PDX,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+335602,Pax upset with bag stowage,Inflight : Passenger Dissatisfied,9/5/23,2175,N644QX,,NSI,SAN,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+337183,FA Misunderstanding of new galley packing.,Inflight : Catering/Service Interruption,9/5/23,2268,N637QX,,NSI,PDX,QX,Completed,Elizabeth Ceja,,FA Misunderstanding of new galley packing- following up,FA Misunderstanding of new galley packing- following up
+335636,Pax count off by infant after FA and agent's numbers matched,Inflight : Station Operation,9/6/23,2000,N648QX,,A,ANC,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+335646,Seat broken on AC,Inflight : Equipment/System Odor,9/6/23,2083,N648QX,,A,FAI,QX,Initiate Event,Amanda Bressel,,"Messaged FA to see if CA was notified. 
+Sent to MTX for awareness.","Messaged FA to see if CA was notified. 
+Sent to MTX for awareness."
+335595,FA Fatigue,Inflight : Fatigue,9/6/23,2088,N624QX,,NSI,BZN,QX,Initiate Event,Amanda Bressel,,Sent to Inflight Supervisors for processing,Sent to Inflight Supervisors for processing
+335596,FA Fatigue,Inflight : Fatigue,9/6/23,2088,N624QX,,NSI,BZN,QX,Initiate Event,Amanda Bressel,,Sent to Inflight Supervisors for processing,Sent to Inflight Supervisors for processing
+336948,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/6/23,2111,N656QX,,NSI,PDX,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+335642,ROC not met and agents not able to check bags internationally,Inflight : Station Operation,9/6/23,2328,N647QX,,A,SAN,QX,Initiate Event,Amanda Bressel,,"#Bags 
+Messaged FA","#Bags 
+Messaged FA"
+335638,MTX delay,Inflight : Other Event,9/6/23,9706,N620QX,,NSI,ANC,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+#NTMD","Messaged FA 
+#NTMD"
+336953,FA Feedback on catering related issues,Inflight : Catering/Service Interruption,9/7/23,2038,N636QX,,NSI,SEA,QX,Completed,Elizabeth Ceja,,Following up with FA,Following up with FA
+336129,Cancelled Service due to turbulence,Inflight : Other Event,9/7/23,2052,N644QX,,NSI,ANC,QX,Initiate Event,Amanda Bressel,,"#turb 
+Messaged FA","#turb 
+Messaged FA"
+336134,AC off and floor lighting not charged.,Inflight : Other Event,9/7/23,2078,N625QX,,A,PAE,QX,Initiate Event,Amanda Bressel,,,
+336131,"Pax removed for intox, after suspected in boarding area",Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/7/23,2097,N626QX,,A,RNO,QX,Initiate Event,Amanda Bressel,,Messaged FAs,Messaged FAs
+337436,Pax admitted to vaping in the lav and setting off smoke alarm,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/7/23,2200,N657QX,E175,A,LAS,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Requested PNR 
+Sent report and documents to FAA","Messaged FA 
+Requested PNR 
+Sent report and documents to FAA"
+336132,Pax admitted vaping in the lav,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/7/23,2408,N655QX,,A,Enroute,QX,Initiate Event,Amanda Bressel,,"Messaged FAs 
+Requested PNR 
+Sent to FAA","Messaged FAs 
+Requested PNR 
+Sent to FAA"
+336130,Agent and catering did not close vent flap when closing door,Inflight : Other Event,9/7/23,2421,N634QX,,A,LAX,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie 
+#GroundCabinDoor","Messaged FA 
+Sent to Jackie 
+#GroundCabinDoor"
+336135,FA did not disarm doors for prior to deplaning for MTX Delay. Agent Opened door with thumbs up and all doors still armed..,Inflight : Other Event,9/8/23,2000,N648QX,,A,ANC,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+#FACabinDoor","Messaged FA 
+#FACabinDoor"
+336235,Pax went into cardiac arrest and FAs performed CPR during boarding. EMTs met took over care and pax was removed from aircraft and death pronounced on ramp.,Inflight : Passenger Illness/Injury,9/8/23,2020,N652MK,,NSI,SEA,QX,Initiate Event,Amanda Bressel,,"Called both FAs and offered additional support. 
+Sent to MTX as AED was used on board","Called both FAs and offered additional support. 
+Sent to MTX as AED was used on board"
+336393,Catering error.,Inflight : Catering/Service Interruption,9/8/23,2022,N639QX,,NSI,PDX,QX,Completed,Elizabeth Ceja,,Forwarding to catering ops and following up with FA.,Forwarding to catering ops and following up with FA.
+336137,Undocumented service animal,Inflight : Animal/Pet/Service/Emotional,9/8/23,2097,N638QX,,NSI,RNO,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+336133,Pax Complained about service level,Inflight : Passenger Dissatisfied,9/8/23,2098,N652MK,,NSI,MFR,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+336136,FA did not pick up alcohol bottle.,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/8/23,2202,N657QX,,NSI,PDX,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+336656,Pax exhibiting uncomfortable behavior to FA and other pax,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/8/23,2213,N650QX,,A,OAK,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Customer Care for visibility","Messaged FA 
+Sent to Customer Care for visibility"
+336170,Pax upset that fwd lav was occupied and they were asked to wait at row 6,Inflight : Passenger Dissatisfied,9/8/23,2239,N630QX,,NSI,Enroute,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+336138,Pax stated vape was broken and lave smoke alarm went off,Inflight : Equipment/System Odor,9/8/23,2253,N660QX,,A,Enroute,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+No admission","Messaged FA 
+No admission"
+336394,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/9/23,2025,N649QX,,NSI,FAI,QX,Completed,Elizabeth Ceja,,#turb,#turb
+336401,Catering error,Inflight : Catering/Service Interruption,9/9/23,2114,N624QX,,NSI,SJC,QX,Completed,Elizabeth Ceja,,Forwarding to catering ops and following up with FA,Forwarding to catering ops and following up with FA
+336956,Catering error,Inflight : Catering/Service Interruption,9/9/23,2117,N659QX,,NSI,ICT,QX,Completed,Elizabeth Ceja,,Forwarding to catering ops and following up with FA,Forwarding to catering ops and following up with FA
+336920,Pax cut arm. FA bandaged with FAK and used UPK items,Inflight : Passenger Illness/Injury,9/9/23,2129,N643QX,,NSI,LAX,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to MTX for visibility","Messaged FA 
+Sent to MTX for visibility"
+336402,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/9/23,2137,N641QX,,NSI,ANC,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+336242,Agent argued with FA regarding infant and pax count.,Inflight : Other Event,9/9/23,2220,N657QX,,A,SNA,QX,Initiate Event,Amanda Bressel,,"Called FA as they were following the FAM 
+Sent to Jackie","Called FA as they were following the FAM 
+Sent to Jackie"
+336924,FA feels rushed with turn time and cabin not being clean,Inflight : Station Operation,9/9/23,2259,N638QX,,A,RDM,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+#fleet","Messaged FA 
+#fleet"
+336139,Unknown music device. FA stopped the operation to make sure it was approved.,Inflight : Other Event,9/9/23,2353,N660QX,,NSI,GEG,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+338143,Water shut off valve and cover needs cleaning,Inflight : Equipment/System Odor,9/10/23,2000,N649QX,E175,A,ANC,QX,Initiate Event,Amanda Bressel,E175,"Sent to MTX 
+Messaged FA","Sent to MTX 
+Messaged FA"
+336199,Pax did not make flight on'ed.,Inflight : Other Event,9/10/23,2002,N655QX,,NSI,OME,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+336181,Agent closed L1 door without thumbs up,Inflight : Station Operation,9/10/23,2003,N651QX,,A,PUW,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie 
+#GroundCabinDoor","Messaged FA 
+Sent to Jackie 
+#GroundCabinDoor"
+336203,"FA found R1 door armed after RON 
+Galley a mess",Inflight : Other Event,9/10/23,2061,N650QX,,A,MSO,QX,Initiate Event,Amanda Bressel,,"#GroundCabinDoor 
+#armed","#GroundCabinDoor 
+#armed"
+336195,Pax upset that there was no room to put his tray table down due to person of size,Inflight : Passenger Dissatisfied,9/10/23,2068,N626QX,,NSI,ABQ,QX,Initiate Event,Amanda Bressel,,,
+336238,"Pax upset after attempting to put bag in overhead bin, breaking hinge.",Inflight : Passenger Dissatisfied,9/10/23,2076,N627QX,,A,Not applicable,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to MTX for bin","Messaged FA 
+Sent to MTX for bin"
+336172,Coffee spilled on pax. FA comped,Inflight : Other Event,9/10/23,2081,N651QX,,A,PDX,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+336655,Pax would not comply with cell phone,Inflight : Passenger Compliance/Exit Row,9/10/23,2100,N638QX,,A,RNO,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+336403,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/10/23,2101,N625QX,,NSI,ANC,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+336188,Lav not cleaned between flights,Inflight : Other Event,9/10/23,2116,N655QX,,A,SNA,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie 
+#Fleet","Messaged FA 
+Sent to Jackie 
+#Fleet"
+336174,Pet not in crate,Inflight : Animal/Pet/Service/Emotional,9/10/23,2328,N632QX,,A,SAN,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+#Pet","Messaged FA 
+#Pet"
+336187,Pax compliance with seatbelt and lav during turbulence during descend,Inflight : Passenger Compliance/Exit Row,9/10/23,2556,N626QX,,A,Enroute,QX,Initiate Event,Amanda Bressel,,Message FA,Message FA
+336658,Pax removed from flt for intox,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/11/23,2066,N646QX,,A,SEA,QX,Initiate Event,Amanda Bressel,,"#PaxIntox 
+Messaged FA 
+Sent to Jackie","#PaxIntox 
+Messaged FA 
+Sent to Jackie"
+336404,Catering error,Inflight : Catering/Service Interruption,9/11/23,2084,N624QX,,NSI,Enroute,QX,Completed,Elizabeth Ceja,,Forwarding to catering ops and following up with FAs.,Forwarding to catering ops and following up with FAs.
+336666,"Pax 1 possible intoxicant, making noises while sleeping, Pax 2 aggressively woke pax 1 in a physical nature. Police met AC",Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/11/23,2129,N643QX,,A,LAX,QX,Initiate Event,Amanda Bressel,,"Send to Customer Care for both pax, 
+Looped in Security 
+Sent to FAA 
+Messaged FA","Send to Customer Care for both pax, 
+Looped in Security 
+Sent to FAA 
+Messaged FA"
+336662,Agent rushing wheelchair pax to deplane while waiting for wheelchair to arrive,Inflight : Other Event,9/11/23,2149,N641QX,,A,LAX,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+336396,FA Fatigue,Inflight : Fatigue,9/11/23,2202,N656QX,,NSI,PDX,QX,Initiate Event,Amanda Bressel,,Sent to Inflight Sups for processing,Sent to Inflight Sups for processing
+336397,FA Fatigue,Inflight : Fatigue,9/11/23,2202,N656QX,,NSI,PDX,QX,Initiate Event,Amanda Bressel,,Sent to Inflight Sups for processing,Sent to Inflight Sups for processing
+336660,Potable water had a very strange smell and taste,Inflight : Station Operation,9/12/23,2019,N653QX,,A,SMF,QX,Initiate Event,Amanda Bressel,,"Sent to Matt Thomason and Tim Bounting 
+Messaged FA","Sent to Matt Thomason and Tim Bounting 
+Messaged FA"
+336667,"Possible intox pax, did not serve",Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/12/23,2025,N660QX,,,ANC,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+#PaxIntox","Messaged FA 
+#PaxIntox"
+336577,FA Fatigue,Inflight : Fatigue,9/12/23,2115,N658QX,,NSI,ANC,QX,Initiate Event,Amanda Bressel,,Sent to Inflight Sups for processing,Sent to Inflight Sups for processing
+336832,Agent rude to pax and scolded in front of other pax,Inflight : Passenger Dissatisfied,9/12/23,2149,N641QX,,A,SJC,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+337066,FA upset that AS non-revs were given FC over deadheading FA,Inflight : Other Event,9/12/23,2242,N638QX,,NSI,SEA,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+336830,PBE Seals not in place during FA pre-flight and flight continued without contacting MTX,Inflight : Equipment/System Odor,9/12/23,2249,N657QX,,A,EAT,QX,Initiate Event,Amanda Bressel,,"Sent message to Flt Ops and MTX for clarification if MTX was involved prior to continuing flight. 
+Update from MTX: PILOT 882109 SEA 9/13/2023 35 36 FOIL TABS ON PBES IN AFT GALLEY ARE BROKEN. REPLACED BROKEN SEALS ON BOTH AFT GALLEY PBES. NO FURTHER DEFECTS NOTED. 
+QX-MOM- looks like the PBE foil seals were written up and replaced in SEA on 9/13 (Ref defect 882109). I don’t see anything on my end indicating MTX had been contacted prior to this though. 
+
+
+
+messaged FA with safety precautions","Sent message to Flt Ops and MTX for clarification if MTX was involved prior to continuing flight. 
+Update from MTX: PILOT 882109 SEA 9/13/2023 35 36 FOIL TABS ON PBES IN AFT GALLEY ARE BROKEN. REPLACED BROKEN SEALS ON BOTH AFT GALLEY PBES. NO FURTHER DEFECTS NOTED. 
+QX-MOM- looks like the PBE foil seals were written up and replaced in SEA on 9/13 (Ref defect 882109). I don’t see anything on my end indicating MTX had been contacted prior to this though. 
+
+
+
+messaged FA with safety precautions"
+336668,Possible intox pax (2),Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/12/23,2478,N650QX,,A,MSO,QX,Initiate Event,Amanda Bressel,,"#PaxIntox 
+Messaged FA","#PaxIntox 
+Messaged FA"
+336827,Pax upset about service and no upgrade,Inflight : Passenger Dissatisfied,9/12/23,2478,N650QX,,NSI,SEA,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+sent to Customer Care","Messaged FA 
+sent to Customer Care"
+336833,Agent yelled at FA after agent was not following proper UM protocol,Inflight : Station Operation,9/13/23,2038,N624QX,,A,PDX,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+336654,FA Fatigue,Inflight : Fatigue,9/13/23,2095,N653QX,,NSI,BOI,QX,Initiate Event,Amanda Bressel,,Sent to Inflight Sups for processing,Sent to Inflight Sups for processing
+336940,Pre-Order Misunderstanding,Inflight : Catering/Service Interruption,9/13/23,2116,N658QX,,NSI,Enroute,QX,Completed,Elizabeth Ceja,,Following up with FA.,Following up with FA.
+336965,FA Misunderstanding,Inflight : Catering/Service Interruption,9/13/23,2128,N656QX,,NSI,Enroute,QX,Completed,Elizabeth Ceja,,Following up with FA to education on cross certification on carts,Following up with FA to education on cross certification on carts
+336919,Pax non-compliant with laptop,Inflight : Passenger Compliance/Exit Row,9/13/23,2300,N647QX,,A,STS,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+336834,Water not filled all the way,Inflight : Station Operation,9/13/23,2420,N632QX,,A,PAE,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+336936,Catering error,Inflight : Catering/Service Interruption,9/14/23,2254,N630QX,,NSI,SEA,QX,Completed,Elizabeth Ceja,,"Forwarding to catering ops, and following up to FA","Forwarding to catering ops, and following up to FA"
+336970,FA Fatigue,Inflight : Fatigue,9/14/23,2286,N639QX,,NSI,SEA,QX,Initiate Event,Amanda Bressel,,Sent to Inflight Supervisors for processing,Sent to Inflight Supervisors for processing
+337032,Challenges with available gate and subsequential boarding timeline,Inflight : Station Operation,9/14/23,2300,N653QX,,A,STS,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+337070,PAx upset they could not pick seat with saver fare,Inflight : Passenger Dissatisfied,9/15/23,2097,N656QX,,NSI,RNO,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+337296,FA Fatigue,Inflight : Fatigue,9/15/23,2302,N633QX,E175,NSI,PDX,QX,Initiate Event,Amanda Bressel,E175,Sent to Inflight Supervisors for processing,Sent to Inflight Supervisors for processing
+337301,Agent did not check crew badges,Inflight : Station Operation,9/15/23,2303,N633QX,,B,LAX,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie for follow up","Messaged FA 
+Sent to Jackie for follow up"
+337443,"Ill pax, used O2, no further medical needed",Inflight : Passenger Illness/Injury,9/16/23,2000,N627QX,,NSI,OTZ,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to MTX for O2 use","Messaged FA 
+Sent to MTX for O2 use"
+337299,Boarding delayed due to photoluminescent not charged,Inflight : Station Operation,9/16/23,2101,N632QX,,A,FAI,QX,Initiate Event,Amanda Bressel,,Messaged FAs,Messaged FAs
+337455,Pax with POC seated in bulkhead,Inflight : Other Event,9/16/23,2116,N632QX,,A,PAE,QX,Initiate Event,Amanda Bressel,,Messaged FA for clarification if pax was moved,Messaged FA for clarification if pax was moved
+337453,Flt deck door opened during take off,Inflight : Other Event,9/16/23,2117,N642QX,,A,ICT,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+#FltDeckDoor 
+#humanfactors","Messaged FA 
+#FltDeckDoor 
+#humanfactors"
+337440,Child pax removed from flight for vomited,Inflight : Passenger Illness/Injury,9/16/23,2121,N628QX,,NSI,GEG,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+338068,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/16/23,2139,N628QX,,NSI,EUG,QX,Completed,Elizabeth Ceja,,#turb #notifiedfas,#turb #notifiedfas
+338067,Insufficient flight time to perform full FC service,Inflight : Catering/Service Interruption,9/16/23,2215,N642QX,,NSI,Enroute,QX,Completed,Elizabeth Ceja,,Insufficient flight time to perform full FC service,Insufficient flight time to perform full FC service
+337452,Pax experienced head pain and medics met ac,Inflight : Passenger Illness/Injury,9/16/23,2302,N624QX,,NSI,LAX,QX,Initiate Event,Amanda Bressel,,Messaged FAs,Messaged FAs
+337304,"Smoke alarm went off, pax denied vaping",Inflight : Other Event,9/16/23,2542,N653QX,,A,YEG,QX,Initiate Event,Amanda Bressel,,Messaged FAs,Messaged FAs
+337456,Pax non-compliant with child in seat,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/17/23,2027,N648QX,,A,MSP,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Customer Care","Messaged FA 
+Sent to Customer Care"
+337470,Pax upset with service level,Inflight : Passenger Dissatisfied,9/17/23,2034,N646QX,,NSI,SEA,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+337465,Pax upset with clean-up compliance,Inflight : Passenger Dissatisfied,9/17/23,2057,N651QX,,NSI,Not applicable,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+337773,On leave FA was cleared for JACs and sat in jump seat,Inflight : Other Event,9/17/23,2057,N651QX,,A,RNO,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Connected with Len for clarification","Messaged FA 
+Connected with Len for clarification"
+337783,Pax holding service animal,Inflight : Animal/Pet/Service/Emotional,9/17/23,2116,N650QX,,NSI,SNA,QX,Initiate Event,Amanda Bressel,,"Messaged FA with FAM 3.9.8 and coached on regulation. 
+
+• A guest may hold a small service animal (dog) on their lap provided the animal: 
+_ Provides a task for the guest during the flight. 
+_ Is no larger than an average two-year old child. 
+_ Does not encroach on neighboring seat. 
+_ A lap-held service animal may sit in the guest’s lap for all phases of flight including taxi, takeoff, and 
+landing. If a carrier/kennel is used, it shall be stowed during taxi, takeoff, and landing","Messaged FA with FAM 3.9.8 and coached on regulation. 
+
+• A guest may hold a small service animal (dog) on their lap provided the animal: 
+_ Provides a task for the guest during the flight. 
+_ Is no larger than an average two-year old child. 
+_ Does not encroach on neighboring seat. 
+_ A lap-held service animal may sit in the guest’s lap for all phases of flight including taxi, takeoff, and 
+landing. If a carrier/kennel is used, it shall be stowed during taxi, takeoff, and landing"
+337458,Missing blanket bag,Inflight : Equipment/System Odor,9/17/23,2123,N620QX,,A,PDX,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to MTX for missing blanket bag","Messaged FA 
+Sent to MTX for missing blanket bag"
+337472,Pax drinking own alcohol and gave it to FA,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/17/23,2141,N653QX,,A,OAK,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+337467,Agents came looking for FAs prior to report time.,Inflight : Station Operation,9/17/23,2239,N659QX,,NSI,PAE,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+337963,Pax count confusion with infants w purchased seats,Inflight : Other Event,9/18/23,2012,N632QX,,NSI,PHX,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Possible Inquirer","Messaged FA 
+Possible Inquirer"
+337785,Pax vomited in jetway due to intox and was not allowed to board,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/18/23,2027,N658QX,,A,MSP,QX,Initiate Event,Amanda Bressel,,"Messaged FAs 
+Sent to Jackie for visibility","Messaged FAs 
+Sent to Jackie for visibility"
+337976,Pax removed for aggressive verbal behavior,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/18/23,2095,N649QX,E175,NSI,BOI,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+338587,Pax removed for intox,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/18/23,2171,N626QX,E175,A,PDX,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+337972,Crew conflict with other FA with cleanup in FC,Inflight : Other Event,9/18/23,2287,N651QX,E175,NSI,PDX,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+337971,Center compartment in forward galley filled with unapproved items,Inflight : Other Event,9/18/23,2303,N653QX,E175,A,LAX,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Possible Inquirer","Messaged FA 
+Possible Inquirer"
+337964,Flight delayed due to inbound flt,Inflight : Other Event,9/18/23,2331,N654QX,,NSI,FCA,QX,Initiate Event,Amanda Bressel,,Messaged FA,Messaged FA
+337965,Service Animal in training issue and pax was sleeping and not addressing the compliance of the animal,Inflight : Animal/Pet/Service/Emotional,9/18/23,2331,N654QX,,A,SEA,QX,Initiate Event,Amanda Bressel,,"Messaged FA 
+Sent to Customer Care","Messaged FA 
+Sent to Customer Care"
+337957,Pax began choking and FA performed Heimlich maneuver and able to remove blockage.,Inflight : Passenger Illness/Injury,9/18/23,2571,N644QX,,NSI,MSO,QX,Initiate Event,Amanda Bressel,,Messaged FA to see if medlink was called and pax cleared to fly.,Messaged FA to see if medlink was called and pax cleared to fly.
+337974,Pax showing signs of intox. FA did not continue service,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/19/23,2198,N627QX,E175,A,ANC,QX,Initiate Event,Amanda Bressel,E175,Messaged FAs- requested additional info if pax was continuing on and if stations was notified,Messaged FAs- requested additional info if pax was continuing on and if stations was notified
+337970,Test,Inflight : Other Event,9/19/23,2420,N632QX,E175,NSI,PDX,QX,Initiate Event,Amanda Bressel,E175,,
+337768,Badge reader in crew room not working,Inflight : Station Operation,9/19/23,2421,N632QX,E175,A,PAE,QX,Initiate Event,Amanda Bressel,E175,"Send to Susanne and Sierra 
+Messaged FAs","Send to Susanne and Sierra 
+Messaged FAs"
+338161,"Ill pax, FAs used O2 and medical assist on board",Inflight : Passenger Illness/Injury,9/19/23,2559,N632QX,E175,NSI,ANC,QX,Initiate Event,Amanda Bressel,E175,"Messaged FAs 
+Sent to MTX for O2 use","Messaged FAs 
+Sent to MTX for O2 use"
+338141,Parking lot did not have parking passes,Inflight : Station Operation,9/20/23,2080,N660QX,E175,NSI,PAE,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+337955,Agent started boarding with out FA ok,Inflight : Station Operation,9/20/23,2096,N637QX,E175,A,SEA,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+338248,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/20/23,2121,N651QX,E175,NSI,GEG,QX,Completed,Elizabeth Ceja,E175,#turb #notifiedfas,#turb #notifiedfas
+338334,Pax accused FA of touching them inappropriately after pax stepped on FA's foot,Inflight : Other Event,9/20/23,2123,N650QX,E175,A,Enroute,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Customer Care","Messaged FA 
+Sent to Customer Care"
+338142,Tarmac Delay Snacks not sealed,Inflight : Equipment/System Odor,9/20/23,2220,N648QX,E175,A,PAE,QX,Initiate Event,Amanda Bressel,E175,"#snacks 
+Messaged FA","#snacks 
+Messaged FA"
+338164,Pax boarded wrong AC and found during boarding,Inflight : Passenger Boarded Wrong Aircraft,9/20/23,2247,N651QX,E175,A,SEA,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Confirmed with FA error was found due to duplicate seats and was found prior to the end of boarding. 
+Sent to Jackie requesting if VA was used","Messaged FA 
+Confirmed with FA error was found due to duplicate seats and was found prior to the end of boarding. 
+Sent to Jackie requesting if VA was used"
+338247,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/20/23,2428,N651QX,E175,NSI,SEA,QX,Completed,Elizabeth Ceja,E175,#turb #notifedfas,#turb #notifedfas
+338249,Inflight service cxld due to turb. Guest dissatisfaction,Inflight : Catering/Service Interruption,9/21/23,2029,N637QX,E175,NSI,Enroute,QX,Initiate Event,Elizabeth Ceja,E175,"#turb #notifiedfas 
+
+FWDing to Amanda B due to mention of guest dissatisfaction","#turb #notifiedfas 
+
+FWDing to Amanda B due to mention of guest dissatisfaction"
+338330,Pax got up with seatbelt sign on and wanted alcohol,Inflight : Passenger Compliance/Exit Row,9/21/23,2029,N637QX,E175,A,Enroute,QX,Initiate Event,Amanda Bressel,E175,,
+338225,FA felt unsafe in taxi,Inflight : Other Event,9/21/23,2031,N659QX,E175,A,MFR,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Molly","Messaged FA 
+Sent to Molly"
+338250,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/21/23,2036,N647QX,E175,NSI,Enroute,QX,Completed,Elizabeth Ceja,E175,#turb #notifiedfas,#turb #notifiedfas
+338162,Pax did not want to stow bag,Inflight : Passenger Compliance/Exit Row,9/21/23,2073,N630QX,E175,A,SEA,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Customer Care","Messaged FA 
+Sent to Customer Care"
+338229,Power went out with pax on board,Inflight : Other Event,9/21/23,2079,N633QX,E175,A,AKN,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+338251,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/21/23,2106,N647QX,E175,NSI,Enroute,QX,Completed,Elizabeth Ceja,E175,#turb #notifiedfas,#turb #notifiedfas
+338328,"Flt experienced aborted takeoff, FA claims possible over fueling",Inflight : Other Event,9/21/23,2116,N638QX,E175,A,SNA,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+338166,Pax non-compliant with seatbelt and delivered FC alcohol to another pax,Inflight : Passenger Compliance/Exit Row,9/21/23,2239,N648QX,E175,A,PAE,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+338069,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/21/23,2254,N637QX,E175,NSI,HLN,QX,Completed,Elizabeth Ceja,E175,#turb #notifiedfas,#turb #notifiedfas
+338231,Aggressive behavior from other FA regarding Turb City,Inflight : Other Event,9/21/23,2295,N633QX,E175,NSI,AKN,QX,Initiate Event,Amanda Bressel,E175,Called FA and debriefed,Called FA and debriefed
+338159,Landed with pax in lav,Inflight : Other Event,9/21/23,2300,N636QX,E175,A,STS,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+338169,Pax upset- Agent checked stroller to final destination instead of gate check.,Inflight : Passenger Dissatisfied,9/21/23,2412,N632QX,E175,A,FAI,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Jackie","Messaged FA 
+Sent to Jackie"
+338246,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/21/23,2571,N628QX,E175,NSI,SEA,QX,Completed,Elizabeth Ceja,E175,#turb #notifiedfas,#turb #notifiedfas
+338336,Pax unhappy with service,Inflight : Other Event,9/22/23,2080,N623QX,E175,NSI,ANC,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+338228,Pax non-compliant with tray table- pax had headphones on,Inflight : Passenger Compliance/Exit Row,9/22/23,2101,N660QX,E175,A,FAI,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+338580,Aft galley left a mess and proper carts not locked,Inflight : Other Event,9/22/23,2346,N645QX,E175,A,PDX,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Put in Inquirer","Messaged FA 
+Put in Inquirer"
+338606,Hard Stand delay in deplaning due to construction,Inflight : Other Event,9/22/23,2421,N638QX,E175,A,PAE,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Jackie and William for visibility","Messaged FA 
+Sent to Jackie and William for visibility"
+338590,ITS issue with Ipad,Inflight : Passenger Dissatisfied,9/23/23,2060,N643QX,E175,NSI,RNO,QX,Initiate Event,Amanda Bressel,E175,"Sent to Jackie 
+#IT 
+Messaged FA","Sent to Jackie 
+#IT 
+Messaged FA"
+338589,Pax count delay due to infant with paid seat,Inflight : Station Operation,9/23/23,2220,N623QX,E175,A,PAE,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+338588,Pax used the lav after FA asked to be seated,Inflight : Other Event,9/23/23,2571,N647QX,E175,A,SEA,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA, Spoke about inform not enforce.","Messaged FA, Spoke about inform not enforce."
+338605,Older man tripped and fell on the seat while deplaning. Bleeding but seemed ok,Inflight : Passenger Illness/Injury,9/24/23,2018,N637QX,E175,A,IDA,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Customer Care","Messaged FA 
+Sent to Customer Care"
+338603,Tarmac Delay snacks open and missing,Inflight : Other Event,9/24/23,2071,N631QX,E175,A,PDX,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Jackie 
+#snacks","Messaged FA 
+Sent to Jackie 
+#snacks"
+338613,FA had safety and professional concerns about other FA,Inflight : Other Event,9/24/23,2096,N646QX,E175,A,SEA,QX,Initiate Event,Amanda Bressel,E175,"Sent to Performance 
+Sent to Jackie (Station Report 458738)","Sent to Performance 
+Sent to Jackie (Station Report 458738)"
+338592,FA complained that Fleet refused to take trash.,Inflight : Station Operation,9/24/23,2105,N627QX,E175,NSI,BIL,QX,Initiate Event,Amanda Bressel,E175,Coached FA re: 6.4.1 Trash procedures in non-catered station,Coached FA re: 6.4.1 Trash procedures in non-catered station
+338607,Service cancelled due to turbulence. Compliance PA,Inflight : Other Event,9/24/23,2108,N639QX,E175,NSI,BOI,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+#turb","Messaged FA 
+#turb"
+338611,Child and father removed from flight due to medical need. Paramedics at AC and Dr on board assisted,Inflight : Passenger Illness/Injury,9/24/23,2148,N653QX,E175,NSI,LAX,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+338608,Service canceled due to turbulence. Compliance PA,Inflight : Other Event,9/24/23,2331,N658QX,E175,NSI,SEA,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+#turb","Messaged FA 
+#turb"
+338681,Infight service cxld due to turb,Inflight : Catering/Service Interruption,9/24/23,2331,N658QX,E175,NSI,SEA,QX,Completed,Elizabeth Ceja,E175,#turb #notifiedfas,#turb #notifiedfas
+338591,FA Fatigue,Inflight : Fatigue,9/24/23,2584,N641QX,E175,NSI,BOI,QX,Initiate Event,Amanda Bressel,E175,Sent to Inflight Sups for processing,Sent to Inflight Sups for processing
+338614,"Pax vomited, medical assist onboard and medics met ac",Inflight : Passenger Illness/Injury,9/25/23,2002,N623QX,E175,NSI,OME,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+#medlink","Messaged FA 
+#medlink"
+339033,Service modification. Flight duration stated as reason.,Inflight : Other Event,9/25/23,2003,N634QX,E175,NSI,BOI,QX,Initiate Event,Jeanette Waddle,E175,Reached out to FA for more information. Will add hashtag if turbulence is confirmed. Sent to Elizabeth for visibility.,Reached out to FA for more information. Will add hashtag if turbulence is confirmed. Sent to Elizabeth for visibility.
+339619,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/25/23,2018,N630QX,E175,NSI,SEA,QX,Completed,Elizabeth Ceja,E175,#turb,#turb
+338609,Inflight information cards missing from seatbacks,Inflight : Other Event,9/25/23,2038,N645QX,E175,A,SEA,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Jackie 
+#Fleet","Messaged FA 
+Sent to Jackie 
+#Fleet"
+338646,Service cancelled due to turbulence,Inflight : Other Event,9/25/23,2041,N637QX,E175,NSI,SEA,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+#turb","Messaged FA 
+#turb"
+338684,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/25/23,2045,N627QX,E175,NSI,Enroute,QX,Completed,Elizabeth Ceja,E175,#turb,#turb
+338641,"Pregnant pax ill, medical assist on board, used O2 and medic met ac. Missing O2 knob.",Inflight : Passenger Illness/Injury,9/25/23,2062,N625QX,E175,A,BZN,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA asking for more information about preflight and if CA was notified-Reached out to other FA (Runge) for more information too. 
+Sent to MTX for inop POB and O2 use","Messaged FA asking for more information about preflight and if CA was notified-Reached out to other FA (Runge) for more information too. 
+Sent to MTX for inop POB and O2 use"
+338644,Megaphone not seated properly,Inflight : Equipment/System Odor,9/25/23,2067,N625QX,E175,A,PUW,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to MTX for visibility","Messaged FA 
+Sent to MTX for visibility"
+339034,Missing O2 mask.,Inflight : Other Event,9/25/23,2067,N625QX,E175,NSI,PUW,QX,Initiate Event,Jeanette Waddle,E175,Messaged FA. Forwarded to MTX and Flight Ops Rebeca for visibility.,Messaged FA. Forwarded to MTX and Flight Ops Rebeca for visibility.
+338686,Catering feedback,Inflight : Catering/Service Interruption,9/25/23,2068,N632QX,E175,NSI,ABQ,QX,Completed,Elizabeth Ceja,E175,Catering feedback,Catering feedback
+338682,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/25/23,2078,N648QX,E175,NSI,PAE,QX,Completed,Elizabeth Ceja,E175,#turb,#turb
+338698,Modified service due to turbulence,Inflight : Other Event,9/25/23,2088,N637QX,E175,NSI,PDX,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+#turb","Messaged FA 
+#turb"
+338612,"Delay due to possible intox, crew cleared pax to fly",Inflight : Station Operation,9/25/23,2242,N634QX,E175,NSI,SEA,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+338687,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/25/23,2243,N627QX,E175,NSI,Enroute,QX,Completed,Elizabeth Ceja,E175,,
+339032,Service cancelled due to anticipated turbulence.,Inflight : Other Event,9/25/23,2284,N645QX,E175,NSI,FCA,QX,Initiate Event,Jeanette Waddle,E175,"Messaged FA, #turb","Messaged FA, #turb"
+338616,Pax unresponsive during deplaning due to possible not confirmed intox,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/25/23,2364,N647QX,E175,A,PUW,QX,Initiate Event,Amanda Bressel,E175,Messaged FAs,Messaged FAs
+338610,Gate started boarding at d31,Inflight : Station Operation,9/25/23,2420,N631QX,E175,NSI,PAE,QX,Initiate Event,Amanda Bressel,E175,Messaged FA for timeline at the AC,Messaged FA for timeline at the AC
+338683,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/25/23,2424,N648QX,E175,NSI,SFO,QX,Completed,Elizabeth Ceja,E175,#turb,#turb
+338615,Unexpected turbulence resulted in FA back injury,Inflight : Other Event,9/25/23,2571,N658QX,E175,A,Enroute,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA to file EIR 
+#Inj 
+#turb 
+
+Forwarded to Rebecca Berry on 10/13 for visibility.","Messaged FA to file EIR 
+#Inj 
+#turb 
+
+Forwarded to Rebecca Berry on 10/13 for visibility."
+338650,Pax tried to take alcohol off AC. FA informed and they returned it,Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/26/23,2053,N658QX,E175,NSI,Enroute,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+338701,FA closed flight deck door before arming door,Inflight : Other Event,9/26/23,2116,N651QX,E175,A,PAE,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to Jeanette for door event visibility 
+#FACabinDoor 
+Sent to Training 
+#FltDeckDoor","Messaged FA 
+Sent to Jeanette for door event visibility 
+#FACabinDoor 
+Sent to Training 
+#FltDeckDoor"
+338712,Galley and compartments left a mess by previous crew,Inflight : Other Event,9/26/23,2198,N631QX,E175,A,ANC,QX,Initiate Event,Amanda Bressel,E175,"Sent to Elizabeth 
+Spoke to FA","Sent to Elizabeth 
+Spoke to FA"
+338647,L2 Door is covering placard.,Inflight : Other Event,9/26/23,2247,N629QX,E175,A,SEA,QX,Initiate Event,Amanda Bressel,E175,"Messaged FA 
+Sent to MTX","Messaged FA 
+Sent to MTX"
+338710,FA replenished tarmac delay snacks after use,Inflight : Other Event,9/26/23,2559,N648QX,E175,NSI,PAE,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+338717,UM has nose bleed with medical assist as seat mate,Inflight : Passenger Illness/Injury,9/27/23,2009,N657QX,E175,A,SEA,QX,Initiate Event,Amanda Bressel,E175,Messaged FA,Messaged FA
+339613,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/27/23,2055,N657QX,E175,NSI,PDX,QX,Completed,Elizabeth Ceja,E175,#turb,#turb
+339618,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/27/23,2121,N647QX,E175,NSI,GEG,QX,Completed,Elizabeth Ceja,E175,#turb #notifiedfas,#turb #notifiedfas
+339694,"Possible guest intox after service, elite guest dissatisfied. Service inconsistency.",Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/27/23,2198,N646QX,E175,A,ANC,QX,Initiate Event,Jeanette Waddle,E175,Forwarded to Elizabeth Ceja for investigation and FA contact.,Forwarded to Elizabeth Ceja for investigation and FA contact.
+338714,Canceled Service per CA request,Inflight : Other Event,9/27/23,2231,N631QX,E175,NSI,PDX,QX,Initiate Event,Amanda Bressel,E175,Messaged FA and asked if this was due to turbulence,Messaged FA and asked if this was due to turbulence
+339616,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/27/23,2428,N647QX,E175,NSI,SEA,QX,Completed,Elizabeth Ceja,E175,#turb #notifiedfas,#turb #notifiedfas
+339623,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/28/23,2016,N641QX,E175,NSI,SEA,QX,Completed,Elizabeth Ceja,E175,#turb,#turb
+339253,Didn't disarm doors when they returned to gate for MTX. Gave thumbs up to agent to open L1. Disarmed doors after referring to FAM.,Inflight : Equipment/System Odor,9/28/23,2049,N626QX,E175,B,OAK,QX,Initiate Event,Jeanette Waddle,E175,"Messaged FAs 
+Forwarded to training 
+Forwarded to Flight Ops 
+#FACabinDoor","Messaged FAs 
+Forwarded to training 
+Forwarded to Flight Ops 
+#FACabinDoor"
+339290,"Suspected intoxication, guest mentioned opening the door when she thought they had landed. Hit neighbor on arm several times. LEO met A/C and removed pax upon landing.",Inflight : Passenger Disruption Misconduct/Alcohol/Smoking,9/28/23,2116,N658QX,E175,B,SNA,QX,Initiate Event,Jeanette Waddle,E175,"Messaged FAs. 
+Forwarded to Flight Ops and Jackie. PIR also filed. 
+Forwarded to FAA 10/2/2023 
+#PaxIntox 
+#ThreatLev2 
+Duty page went out as a level 1 threat.","Messaged FAs. 
+Forwarded to Flight Ops and Jackie. PIR also filed. 
+Forwarded to FAA 10/2/2023 
+#PaxIntox 
+#ThreatLev2 
+Duty page went out as a level 1 threat."
+339053,No communication about prisoners/guards who were boarded.,Inflight : Other Event,9/28/23,2200,N656QX,E175,B,PDX,QX,Initiate Event,Jeanette Waddle,E175,Forwarded to Jackie/Charity for investigation/follow up. Messaged FA. Forwarded to Rebecah Berry for visibility.,Forwarded to Jackie/Charity for investigation/follow up. Messaged FA. Forwarded to Rebecah Berry for visibility.
+339031,Trash not removed from aft galley. Placed on ramp by next crew.,Inflight : Station Operation,9/28/23,2390,N657QX,E175,A,SEA,QX,Initiate Event,Jeanette Waddle,E175,"Messaged FA, will reach out to previous crew if flight wasn't catered. Forwarded to Elizabeth. Per FAM 6.4.1, FA B should have brought the trash forward before deplaning. Trash should not have been placed on the ramp.","Messaged FA, will reach out to previous crew if flight wasn't catered. Forwarded to Elizabeth. Per FAM 6.4.1, FA B should have brought the trash forward before deplaning. Trash should not have been placed on the ramp."
+339328,"Ill pax. EMK used, tried to contact MedLink-to no avail.",Inflight : Passenger Illness/Injury,9/29/23,2000,N660QX,E175,A,OTZ,QX,Initiate Event,Jeanette Waddle,E175,"Messaged FAs. 
+Forwarded to Flight Ops.","Messaged FAs. 
+Forwarded to Flight Ops."
+339620,Inflight service feedback- unable to complete second beverage service,Inflight : Catering/Service Interruption,9/29/23,2035,N654QX,E175,NSI,PDX,QX,Completed,Elizabeth Ceja,E175,Inflight service feedback- unable to complete second beverage service,Inflight service feedback- unable to complete second beverage service
+339349,Pressure to board led to incomplete cleaning of spilled yogurt. Guest dissatisfied.,Inflight : Station Operation,9/29/23,2037,N654QX,E175,NSI,MCI,QX,Initiate Event,Jeanette Waddle,E175,"Messaged FA. 
+Forwarded to Jackie. 
+Forwarded to Doug. 
+#Pressure 
+#Fleet","Messaged FA. 
+Forwarded to Jackie. 
+Forwarded to Doug. 
+#Pressure 
+#Fleet"
+339352,Guest refused to check bags they couldn't lift/stow.,Inflight : Other Event,9/29/23,2057,N655QX,E175,A,SEA,QX,Initiate Event,Jeanette Waddle,E175,"Messaged FA 
+Forwarded to Jackie","Messaged FA 
+Forwarded to Jackie"
+339052,Mistakenly moved guest with service animal seated in the bulkhead to a different seat.,Inflight : Passenger Dissatisfied,9/29/23,2284,N636QX,E175,NSI,FCA,QX,Initiate Event,Jeanette Waddle,E175,Reached out to FA for more info. Confirmed that the agent moved guest after Gustavo requested that. Guest was ultimately happy with new seat and FA apologized before landing once he realized he acted in error. Forwarded to customer care for service recovery.,Reached out to FA for more info. Confirmed that the agent moved guest after Gustavo requested that. Guest was ultimately happy with new seat and FA apologized before landing once he realized he acted in error. Forwarded to customer care for service recovery.
+339322,Fatigue,Inflight : Fatigue,9/29/23,2461,N631QX,E175,A,MFR,QX,Initiate Event,Jeanette Waddle,E175,"#FAFatigue 
+Messaged FA that Sups will be following up.","#FAFatigue 
+Messaged FA that Sups will be following up."
+339336,Aisle chair not listed as SSR. FAs requested it be added for destination station awareness. Destination station wasn't aware of aisle chair need. Delayed boarding/deplaning.,Inflight : Station Operation,9/30/23,2018,N647QX,E175,A,SEA,QX,Initiate Event,Jeanette Waddle,E175,"Forwarded to Jackie for follow up. 
+Messaged FA. 
+Forwarded to Flight Ops for awareness. 
+Forwarded to Customer Care for service recovery.","Forwarded to Jackie for follow up. 
+Messaged FA. 
+Forwarded to Flight Ops for awareness. 
+Forwarded to Customer Care for service recovery."
+339325,737 safety card found during preflight.,Inflight : Equipment/System Odor,9/30/23,2045,N626QX,E175,NSI,SEA,QX,Initiate Event,Jeanette Waddle,E175,"Messaged FA. 
+Forwarded to Doug for visibility. 
+#Fleet","Messaged FA. 
+Forwarded to Doug for visibility. 
+#Fleet"
+339345,Mainline content in Stationary Kit,Inflight : Other Event,9/30/23,2117,N657QX,E175,NSI,SEA,QX,Initiate Event,Jeanette Waddle,E175,"Forwarded to Doug 
+Forwarded to Jackie 
+Messaged FA 
+#Fleet","Forwarded to Doug 
+Forwarded to Jackie 
+Messaged FA 
+#Fleet"
+339624,Inflight service cxld due to turb,Inflight : Catering/Service Interruption,9/30/23,2149,N645QX,E175,NSI,Enroute,QX,Completed,Elizabeth Ceja,E175,#turb #notifiedfas,#turb #notifiedfas
